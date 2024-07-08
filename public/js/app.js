@@ -28,6 +28,6 @@ function resetear() {
 }
  */
 
-export function tercerAngulo(angulo1, angulo2) {
-  return 180 - (angulo1 + angulo2);
+export function thirdAngle(firstAngle, secondAngle) {
+  return 180 - (firstAngle + secondAngle);
 }
